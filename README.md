@@ -12,3 +12,6 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 https://git-scm.com/doc
+
+# But what happens if you get stuck?
+Ah, that. Easy. Just ask Ted if he wants to lift together. He'll come running and help you with your code by the way.
